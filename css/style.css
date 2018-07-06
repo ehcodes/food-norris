@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  color: beige;
+  font-size: 12px;
+  line-height: 1.4;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: gray;
+  text-align: center;
+}
+main{
+  width:70%;
+  margin: auto;
+  text-align: left;
+}
+h1{
+  text-align: center;
+}
+.hidden{
+  display: none;
+}
+img{
+  display: block;
+  width: 101%;
+  margin: auto;
+}
+li{
+  list-style: none;
+}
